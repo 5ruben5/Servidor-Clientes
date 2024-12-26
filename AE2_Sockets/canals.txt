@@ -1,0 +1,4 @@
+1-cine
+2-musica
+3-videojocs
+4-literatura
